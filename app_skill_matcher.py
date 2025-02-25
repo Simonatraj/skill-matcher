@@ -16,7 +16,7 @@ def get_db_connection():
         host="localhost",
         user="root",
         password="Dona1234?",
-        database="teamo_ai"
+        database="skill_matcher"
     )
 
 def execute_query(query, params=None):
